@@ -1,2 +1,6 @@
 -Soy estudiante de la carrera de Ing en sistemas en la ucb
 -Me gustaria en un futuro poder trabajar con el tema de ciberseguridad
+-Mis redes son:
+ -youtube.Bv-bz2rb
+ -Instagram.andresdonaireb
+ -Facebook.Andres Donaire
