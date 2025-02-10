@@ -1,2 +1,2 @@
--Soy estudiante de la carrera de Ing en sistemas
--
+-Soy estudiante de la carrera de Ing en sistemas en la ucb
+-Me gustaria en un futuro poder trabajar con el tema de ciberseguridad
